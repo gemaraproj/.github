@@ -1,0 +1,31 @@
+header:
+  schema-version: 2.0.0
+  last-updated: '2026-01-15'
+  last-reviewed: '2026-01-15'
+  url: https://github.com/gemaraproj/.github
+
+project:
+  name: "Gemara: GRC Engineering Model for Automated Risk Assessment"
+  administrators:
+    - name: Jenn Power
+      affiliation: Red Hat
+      email: barnabei.jennifer@gmail.com
+      primary: true
+    - name: Eddie Knight
+      affiliation: Sonatype
+      email: knight@linux.com
+      primary: false
+  documentation:
+    quickstart-guide: https://gemara.openssf.org/implementation/
+  repositories:
+    - name: gemara
+      url: https://github.com/gemaraproj/gemara
+      comment: |
+        The main repository for the GRC Engineering Model for Automated Risk Assessment (Gemara) project.
+        It contains the core codebase and documentation for the project.
+    - name: go-gemara
+      url: https://github.com/gemaraproj/go-gemara
+      comment: Go SDK for parsing Gemara documents.
+  vulnerability-reporting:
+    reports-accepted: false
+    bug-bounty-available: false
