@@ -13,7 +13,7 @@ Proposals not adhering to said principles shall not be considered for consensus.
 
 ### Follow Layer-Based Architecture
 
-The six-layer model (Guidance, Controls, Policy, Evaluation, Enforcement, Audit) provides a clear structure for organizing compliance activities. Changes respect this architectural model and relationships between layers.
+The Gemara Model provides a clear structure for organizing compliance activities. Schema and documentation changes respect this model and relationships between layers.
 
 ### Ensure Engineering-Centric Design
 
