@@ -37,6 +37,8 @@ This document does not prescribe a method of voting. Any mechanism that enables 
 
 ## Contributor Roles
 
+For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder].
+
 ### Maintainer Role
 
 Community members may become maintainer candidates through:
@@ -98,6 +100,7 @@ The governance model is revisited every six months to address community needs. A
 This document was adapted from the Security Baseline Governance [documentation](https://github.com/ossf/security-baseline/blob/main/governance/GOVERNANCE.md).
 
 [MAINTAINERS.md]: ./MAINTAINERS.md
+[Contributor Ladder]: ./CONTRIBUTOR_LADDER.md
 [maintainer consensus]: #maintainer-consensus
 [Sponsoring Committee]: #sponsoring-committees
 [Guiding Governance Principles]: #guiding-governance-principles
