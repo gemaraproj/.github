@@ -63,13 +63,17 @@ An Approver reviews and approves contributions from other members within a speci
 
 - Active [Member] for at least three (3) months.
 - History of quality reviews and contributions within a specific scope.
-- Appointed by a [Core Maintainer].
+
+Community members may become Approver candidates through:
+
+- Nomination by a [sponsoring committee] at any time.
+- Self-nomination after meeting the above requirements.
 
 ### Process
 
-1. An appointer opens a pull request to add the appointee to the relevant [CODEOWNERS] file.
+1. The nominator opens a pull request to add the candidate to the relevant [CODEOWNERS] file.
    - The PR must remain open for seven (7) days to gather feedback, or until all existing Approvers for that scope have responded, whichever is first.
-2. Any current Approver or Maintainer may request changes or object to the appointment.
+2. Any current Approver or Maintainer may request changes or object to the nomination.
 3. Once approved, the PR is merged.
 
 ### Responsibilities & Privileges
