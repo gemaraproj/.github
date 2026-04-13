@@ -37,52 +37,7 @@ This document does not prescribe a method of voting. Any mechanism that enables 
 
 ## Contributor Roles
 
-For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder].
-
-### Maintainer Role
-
-Community members may become maintainer candidates through:
-
-- Nomination by a [sponsoring committee] at any time
-- Self-nomination after actively contributing to Gemara monthly for six months or more
-
-Nominations are submitted via pull request to update Gemara's [MAINTAINERS.md]. After validation, [maintainer consensus] is sought. Upon consensus, the PR is merged to confirm the new maintainer.
-
-#### Responsibilities & Privileges
-
-Maintainers guide the project's technical direction and make decisions through [maintainer consensus]. Maintainers must uphold the [Guiding Governance Principles] and ensure all proposals align with them.
-
-- Maintainers can review, approve, and merge pull requests.
-- Maintainers have access to repository management settings.
-- Maintainers have binding votes in [maintainer consensus] decisions.
-- Maintainers can form [sponsoring committees] to nominate new maintainers and Community Managers.
-
-#### Continued Maintainer Status
-
-Maintainer status requires regular activity and adherence to the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/).
-
-#### Emeritus Maintainers
-
-Emeritus maintainers are listed in a separate section on Gemara's [MAINTAINERS.md].
-A maintainer may be given Emeritus status after six months of inactivity (e.g., no pull request or issue interactions) or may self-assign Emeritus status via pull request.
-A maintainer may return from Emeritus status through [maintainer consensus] and a pull request.
-
-### Community Manager Role
-
-Community members may become Community Managers through:
-- Nomination by a [sponsoring committee] at any time.
-- Self-nomination after actively contributing to Gemara in areas such as moderation, event organization, content creation, and user support.
-
-Nominations are submitted via pull request to update Gemara's [MAINTAINERS.md] under `Community Managers`. After validation, there must be **unanimous approval** from all active maintainers. Upon consensus, the PR is merged to confirm the new community manager.
-
-Removal of a community manager requires [maintainer consensus] on a corresponding pull request.
-
-#### Responsibilities & Privileges
-
-Community Managers manage community engagement and outreach without maintainer responsibilities.
-
-- Community Managers receive access to Gemara community tools (GitHub Pages, social media accounts, etc.).
-- The nature of the role is neutral facilitator; thus, they **do not** have a binding vote in [maintainer consensus].
+For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder]. Changes to the [Contributor Ladder] require approval from at least 66% of active maintainers.
 
 ### Sponsoring Committees
 
