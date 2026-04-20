@@ -64,10 +64,10 @@ An Approver reviews and approves contributions from other members within a speci
 - Active [Member] for at least three (3) months.
 - History of quality reviews and contributions within a specific scope.
 
-Community members may become Approver candidates through:
+Community members who meet the above requirements may become Approver candidates through:
 
-- Nomination by a [sponsoring committee] at any time.
-- Self-nomination after meeting the above requirements.
+- Nomination by a [sponsoring committee].
+- Self-nomination.
 
 ### Process
 
@@ -92,8 +92,8 @@ A Core Maintainer has organization-wide oversight, maintains the Gemara spec, an
 
 Community members may become maintainer candidates through:
 
-- Nomination by a [sponsoring committee] at any time
-- Self-nomination after actively contributing to Gemara monthly for six months or more
+- Nomination by a [sponsoring committee].
+- Self-nomination after actively contributing to Gemara monthly for six months or more.
 
 Candidates must be an active [Approver] with sustained cross-project contributions. Roles are not mutually exclusive; a [Community Manager] may also hold [Approver] status and progress to Core Maintainer.
 
@@ -129,7 +129,8 @@ A Community Manager is a lateral role focused on community engagement, outreach,
 ### Requirements
 
 Community members may become Community Managers through:
-- Nomination by a [sponsoring committee] at any time.
+
+- Nomination by a [sponsoring committee].
 - Self-nomination after actively contributing to Gemara in areas such as moderation, event organization, content creation, and user support.
 
 ### Process
