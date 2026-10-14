@@ -12,8 +12,8 @@ project:
       email: barnabei.jennifer@gmail.com
       primary: true
     - name: Eddie Knight
-      affiliation: Sonatype
-      email: knight@linux.com
+      affiliation: Revanite
+      email: eknight@revanite.io
       primary: false
   documentation:
     quickstart-guide: https://gemara.openssf.org/implementation/
