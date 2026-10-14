@@ -7,6 +7,7 @@
 | Jenn Power | Red Hat | @jpower432 |
 | Eddie Knight | Sonatype | @eddie-knight |
 | Jason Meridth | Chainguard | @jmeridth |
+| Hannah Braswell | Red Hat | @hbraswelrh |
 
 ## Community Managers
 
