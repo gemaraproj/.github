@@ -1,6 +1,6 @@
 header:
   schema-version: 2.0.0
-  last-updated: '2026-01-15'
+  last-updated: '2026-10-13'
   last-reviewed: '2026-01-15'
   url: https://github.com/gemaraproj/.github
 
@@ -26,6 +26,33 @@ project:
     - name: go-gemara
       url: https://github.com/gemaraproj/go-gemara
       comment: Go SDK for parsing Gemara documents.
+    - name: gemara-python
+      url: https://github.com/gemaraproj/gemara-python
+      comment: Pydantic v2 models for Gemara documents.
+    - name: gemara-react
+      url: https://github.com/gemaraproj/gemara-react
+      comment: Headless React renderers for Gemara artifacts.
+    - name: gemara-mcp
+      url: https://github.com/gemaraproj/gemara-mcp
+      comment: Gemara MCP (Model Context Protocol) server.
+    - name: gemara-ai
+      url: https://github.com/gemaraproj/gemara-ai
+      comment: AI skills, OpenPackage bundles, and MCP configurations for Gemara.
+    - name: gemara-publish-action
+      url: https://github.com/gemaraproj/gemara-publish-action
+      comment: GitHub Action for publishing Gemara artifact bundles to OCI registries.
+    - name: grcli
+      url: https://github.com/gemaraproj/grcli
+      comment: Command-line tool for the grc.store GRC artifact registry.
+    - name: grc-store-clientkit
+      url: https://github.com/gemaraproj/grc-store-clientkit
+      comment: Shared library for tools that publish to a Gemara-compatible registry.
+    - name: gemara-mcp-eval-infra
+      url: https://github.com/gemaraproj/gemara-mcp-eval-infra
+      comment: Output-determinism evaluation harness for gemara-mcp.
+    - name: website
+      url: https://github.com/gemaraproj/website
+      comment: Source for gemara.openssf.org.
   vulnerability-reporting:
     reports-accepted: false
     bug-bounty-available: false
