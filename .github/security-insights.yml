@@ -1,6 +1,6 @@
 header:
   schema-version: 2.0.0
-  last-updated: '2026-01-15'
+  last-updated: '2026-10-13'
   last-reviewed: '2026-01-15'
   url: https://github.com/gemaraproj/.github
 
@@ -27,5 +27,9 @@ project:
       url: https://github.com/gemaraproj/go-gemara
       comment: Go SDK for parsing Gemara documents.
   vulnerability-reporting:
-    reports-accepted: false
+    reports-accepted: true
     bug-bounty-available: false
+    policy: https://github.com/gemaraproj/.github/blob/main/SECURITY.md
+    comment: |
+      Report vulnerabilities privately through GitHub Private Vulnerability
+      Reporting on the affected repository. See SECURITY.md.
