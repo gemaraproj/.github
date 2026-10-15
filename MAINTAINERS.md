@@ -5,7 +5,7 @@
 | Name | Affiliation | GitHub |
 |:---|:---|:---|
 | Jenn Power | Red Hat | @jpower432 |
-| Eddie Knight | Sonatype | @eddie-knight |
+| Eddie Knight | Revanite | @eddie-knight |
 | Jason Meridth | Chainguard | @jmeridth |
 | Hannah Braswell | Red Hat | @hbraswelrh |
 
