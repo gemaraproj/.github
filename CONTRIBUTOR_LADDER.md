@@ -95,7 +95,7 @@ Community members may become maintainer candidates through:
 - Nomination by a [sponsoring committee].
 - Self-nomination after actively contributing to Gemara monthly for six months or more.
 
-Candidates must be an active [Approver] with sustained cross-project contributions. Roles are not mutually exclusive; a [Community Manager] may also hold [Approver] status and progress to Core Maintainer.
+Candidates must be an active [Approver] with sustained cross-project contributions. Generally roles are not mutually exclusive; a [Community Manager] may also hold [Approver] status. The only conflicting roles are [Community Manager] and [Core Maintainer] because the Community Manager is by design a neutral facilitation role providing community oversight.
 
 ### Process
 
